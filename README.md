@@ -3,6 +3,8 @@
 This repository contains the code associated with the paper:
 **"Compartment-specific Fat Distribution Profiles have Distinct Relationships with Cardiovascular Ageing and Future Cardiovascular Events"**, currently under review in Nature Communications.
 
+<img width="3000" height="2100" alt="Figure1" src="https://github.com/user-attachments/assets/af102c33-d6ec-4bb6-86f1-b2de80699bd8" />
+
 ### 📦 Environment Setup
 
 We recommend using the provided environment.yml file to reproduce the computational environment.
